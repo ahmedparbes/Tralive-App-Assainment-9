@@ -1,0 +1,32 @@
+.names{
+    color: goldenrod;
+}
+.service-title{
+    width:600px;
+    border-bottom:3px solid magenta;
+    height:50px;  
+    font-weight: 600;
+}
+.first-section{
+    margin-bottom: 30px;
+    text-align: center;
+}
+.first-section h1{
+    font-weight: 700;
+}
+.first-section p {
+    text-align: center;
+    margin-top: 10px;
+}
+.service-one{
+    display: flex;
+    padding: 50px;
+}
+header{
+    text-align: center;
+    min-height: 720px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url(https://preview.colorlib.com/theme/kindergarten/assets/img/hero/xh1_hero.png.pagespeed.ic.48v3Ai9xpb.png);
+};

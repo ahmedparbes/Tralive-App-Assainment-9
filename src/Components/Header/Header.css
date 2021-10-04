@@ -1,0 +1,21 @@
+.header-style{
+display: flex;
+padding: 10px;
+margin: 10px;
+list-style-type: none;
+color: white;
+
+}
+.header-style li{
+    margin: 10px;
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+}
+.header-bar{
+    background-color: rgb(55, 7, 110);
+    color: white;
+}
+.logo{
+    color: white;
+}

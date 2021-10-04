@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Intelligent Challenge",
+        "cost": 1200,
+        "skill": "None",
+        "salary": 34000,
+        "img": "https://preview.colorlib.com/theme/kindergarten/assets/img/gallery/xclass-img1.png.pagespeed.ic.DlRtjuyzVo.webp"
+    },
+    {
+        "name": "Intelligent Challenge",
+        "cost": 12000,
+        "skill": "HSC Passed",
+        "salary": 94000,
+        "img": "https://preview.colorlib.com/theme/kindergarten/assets/img/gallery/xclass-img2.png.pagespeed.ic.rC4vnKDqeg.webp"
+    },
+    {
+        "name": "Intelligent Challenge",
+        "cost": 1500,
+        "skill": "None",
+        "salary": 40000,
+        "img": "https://preview.colorlib.com/theme/kindergarten/assets/img/gallery/xclass-img3.png.pagespeed.ic.kAbFtIz6i7.webp"
+    },
+    {
+        "name": "Intelligent Challenge",
+        "cost": 1500,
+        "skill": "None",
+        "salary": 40000,
+        "img": "https://preview.colorlib.com/theme/kindergarten/assets/img/gallery/xclass-img3.png.pagespeed.ic.kAbFtIz6i7.webp"
+    }
+]
