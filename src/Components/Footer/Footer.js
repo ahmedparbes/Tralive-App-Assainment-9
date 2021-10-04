@@ -24,10 +24,10 @@ const Footer = () => {
             <div>
                 <h2>About Us</h2>
                 <ul>
-                    <li>Classes</li>
-                    <li>Join with us</li>
-                    <li>About</li>
-                    <li>Blog</li>
+                    <li>Our Team</li>
+                    <li>Privacy Policy</li>
+                    <li>Testimonial</li>
+                    <li>Programing</li>
                 </ul>
             </div>
         </div>

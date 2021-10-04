@@ -4,6 +4,10 @@ import { NavLink } from 'react-router-dom';
 import './Header.css'
 
 const Header = () => {
+    const activeStyle = {
+        fontWeight: "bold",
+        color: "red",
+    }
     return (
         <Navbar bg="light" expand="lg">
             <Container className="header-bar">
@@ -14,23 +18,18 @@ const Header = () => {
                         <ul className="header-style">
                             <li><NavLink
                                 to="/home"
-                                activeStyle={{
-                                    fontWeight: "bold",
-                                    color: "red",
-                                    textDecoration: "none"
-                                }}
+                                activeStyle={activeStyle
+                                }
+                                className="text-decoration-none"
                             >
                                 Home
                             </NavLink></li>
                             <li>
                                 <NavLink
                                     to="/about"
-                                    activeStyle={{
-                                        fontWeight: "bold",
-                                        color: "red",
-                                        textDecoration: "none"
-
-                                    }}
+                                    activeStyle={activeStyle
+                                    }
+                                    className="text-decoration-none"
                                 >
                                     About
                                 </NavLink>
@@ -38,11 +37,9 @@ const Header = () => {
                             <li>
                                 <NavLink
                                     to="/contact"
-                                    activeStyle={{
-                                        fontWeight: "bold",
-                                        color: "red",
-                                        textDecoration: "none"
-                                    }}
+                                    activeStyle={activeStyle
+                                    }
+                                    className="text-decoration-none"
                                 >
                                     Contact
                                 </NavLink>
@@ -50,12 +47,9 @@ const Header = () => {
                             <li>
                                 <NavLink
                                     to="/services"
-                                    activeStyle={{
-
-                                        fontWeight: "bold",
-                                        color: "red",
-                                        textDecoration: "none"
-                                    }}
+                                    activeStyle={activeStyle
+                                    }
+                                    className="text-decoration-none"
                                 >
                                     Services
                                 </NavLink>
@@ -63,11 +57,9 @@ const Header = () => {
                             <li>
                                 <NavLink
                                     to="/jobs"
-                                    activeStyle={{
-                                        fontWeight: "bold",
-                                        color: "red",
-                                        textDecoration: "none"
-                                    }}
+                                    activeStyle={activeStyle
+                                    }
+                                    className="text-decoration-none"
                                 >
                                     Jobs
                                 </NavLink>

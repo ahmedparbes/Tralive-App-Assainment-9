@@ -40,5 +40,19 @@
         "skill": "None",
         "salary": 40000,
         "img": "https://preview.colorlib.com/theme/kindergarten/assets/img/gallery/xclass-img3.png.pagespeed.ic.kAbFtIz6i7.webp"
+    },
+    {
+        "name": "Intelligent Challenge",
+        "cost": 1500,
+        "skill": "None",
+        "salary": 40000,
+        "img": "https://preview.colorlib.com/theme/kindergarten/assets/img/gallery/xclass-img3.png.pagespeed.ic.kAbFtIz6i7.webp"
+    },
+    {
+        "name": "Intelligent Challenge",
+        "cost": 1500,
+        "skill": "None",
+        "salary": 40000,
+        "img": "https://preview.colorlib.com/theme/kindergarten/assets/img/gallery/xclass-img3.png.pagespeed.ic.kAbFtIz6i7.webp"
     }
 ]
