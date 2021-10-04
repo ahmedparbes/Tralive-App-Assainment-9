@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://kindergartenn.netl
 ## Available Scripts
 
 In the project directory, you can run:
+- Children Education Purpose.
+- Help to Build Childrens Bright Carrier.
+- Lot More courses
 
 ### `yarn start`
 
