@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <Navbar bg="light" expand="lg">
             <Container className="header-bar">
-                <Navbar.Brand href=""><span className="logo">Education Blog</span></Navbar.Brand>
+                <Navbar.Brand href=""><span className="logo"><img src="https://preview.colorlib.com/theme/kindergarten/assets/img/logo/xlogo2_footer.png.pagespeed.ic.9Jz8KhWoyy.webp" alt="" /></span></Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto ">

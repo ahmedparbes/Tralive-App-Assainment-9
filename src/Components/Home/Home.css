@@ -2,8 +2,9 @@
     color: goldenrod;
 }
 .service-title{
-    width:600px;
-    border-bottom:3px solid magenta;
+    width:500px;
+    border-bottom:2px solid rgb(0, 0, 0);
+   
     height:50px;  
     font-weight: 600;
 }

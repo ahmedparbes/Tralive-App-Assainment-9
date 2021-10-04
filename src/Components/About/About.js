@@ -1,11 +1,12 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
 import './About.css'
+import Footer from '../Footer/Footer'
 
 const About = () => {
     return (
         <Container>
-            <div>
+            <div className="about-section">
                 <h3 className="about-h3">About us page</h3>
                 <h4>Core Values</h4>
                 <p><li>Promoting a school culture that values learning, life skills and professionalism for all.</li>
@@ -15,6 +16,7 @@ const About = () => {
                     <li> Cultivating an inclusive environment of health, safety, respect and responsibility.</li></p>
 
             </div>
+            <Footer></Footer>
         </Container>
     );
 };

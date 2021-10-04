@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
+import Footer from '../Footer/Footer';
 import './Contact.css'
 
 const Contact = () => {
@@ -16,6 +17,7 @@ const Contact = () => {
                     Fax:	(808) 981-7237
                 </h4>
             </div>
+            <Footer></Footer>
         </Container>
     );
 };

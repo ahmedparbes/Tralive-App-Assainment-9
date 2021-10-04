@@ -12,7 +12,7 @@ const Footer = () => {
                     PayPal or Stripe account<br />
                     charge users for registration.</p>
             </div>
-            <div>
+            <div className="footer-link">
                 <h2>Quick Links</h2>
                 <ul>
                     <li>Classes</li>

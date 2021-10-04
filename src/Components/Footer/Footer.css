@@ -4,9 +4,16 @@
     background-color: rgb(2, 8, 95);
     color: white;
     margin-bottom: 20px;
+    height: 250px;
+   
 };
 
-.footer-style h2{
+.footer-link h2{
     font-weight: 700;
-    margin-top: 10px;
+    margin-top: 40px;
+   
+}
+ul li{
+    margin-top: 5px;
+    list-style-type: circle;
 }
