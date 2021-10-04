@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Header from './Components/Header/Header';
@@ -10,6 +12,7 @@ import About from './Components/About/About';
 import NotFound from './Components/NotFound/NotFound'
 import Jobs from './Components/Jobs/Jobs';
 import Services from './Components/Services/Services';
+
 
 function App() {
   return (
