@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Getting Started with Kindergarten Site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://kindergartenn.netlify.app/).
 
 ## Available Scripts
 
 In the project directory, you can run:
+- Children Education Purpose.
+- Help to Build Childrens Bright Carrier.
+- Lot More courses
 
 ### `yarn start`
 
