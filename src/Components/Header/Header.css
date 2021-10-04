@@ -19,3 +19,7 @@ color: white;
 .logo{
     color: white;
 }
+NavLink {
+    text-decoration: none;
+    color: white;
+}

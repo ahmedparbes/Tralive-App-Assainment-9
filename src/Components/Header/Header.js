@@ -51,6 +51,7 @@ const Header = () => {
                                 <NavLink
                                     to="/services"
                                     activeStyle={{
+
                                         fontWeight: "bold",
                                         color: "red",
                                         textDecoration: "none"
