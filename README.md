@@ -1,6 +1,6 @@
 # Getting Started with Kindergarten Site
 
-This project was bootstrapped with [Create React App](https://kindergartenn.netlify.app/).
+This project was bootstrapped with [Create React App](https://brave-bhabha-2c9cae.netlify.app/).
 
 ## Available Scripts
 
