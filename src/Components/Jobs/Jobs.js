@@ -10,7 +10,7 @@ const Jobs = () => {
             <div className="jobs-section">
                 <h2>No jobs found. Check back later</h2>
             </div>
-            <Footer></Footer>
+
         </Container >
 
     );

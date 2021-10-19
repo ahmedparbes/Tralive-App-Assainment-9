@@ -16,7 +16,7 @@ const About = () => {
                     <li> Cultivating an inclusive environment of health, safety, respect and responsibility.</li></p>
 
             </div>
-            <Footer></Footer>
+
         </Container>
     );
 };

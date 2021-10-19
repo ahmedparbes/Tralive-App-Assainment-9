@@ -61,7 +61,7 @@ const Home = () => {
                 }
 
             </div>
-            <Footer></Footer>
+
         </Container>
     );
 };
